@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eddie-dotcom
 - 👀 I’m interested in Web and App development
-- 🌱 I’m currently learning C, Java, HTML, CSS & JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C, Java, HTML, CSS & JavaScript, Android Studio.
+- 💞️ I’m looking to collaborate on Web and App development
 - 📫 How to reach me edmondpaakumahjnr@gmail.com
 
 <!---
