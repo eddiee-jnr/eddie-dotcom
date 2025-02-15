@@ -5,6 +5,6 @@
 - 📫 How to reach me edmondpaakumahjnr@gmail.com
 
 <!---
-eddie-dotcom/eddie-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eddiee-jnr/eddiee-jnr is ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
